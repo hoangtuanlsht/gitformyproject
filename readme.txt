@@ -1,4 +1,4 @@
 Welcome to my project
 
-Author: Hoang Tuan lsht
+Author: Hoang Tuan
 Gmail: hoangtuanlsht@gmail.com
